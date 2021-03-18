@@ -7,6 +7,7 @@
 This GitHub repository contains MATLAB and Simulink utilities and templates to get started developing algorithms for the RoboCup Virtual Robot Manipulation Challenge. The templates include how to control the simulated robot in Gazebo using ROS and how to obtain data from the available robot sensors to be used in perception algorithms.
 
 For more information please visit the RoboCup Call For Participation details here:
+
 https://2021.robocup.org/participants/call-for-participation
 <img src="./Images/RoboCupChallengeIcon.jpg" width="700" height="408">
 
