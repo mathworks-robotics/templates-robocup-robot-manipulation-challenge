@@ -18,6 +18,6 @@ https://2021.robocup.org/participants/call-for-participation
 3. Launch virtual machine
 4. Click on the "RoboCup Challenge" folder in the desktop
 5. Click on the desired test environment shortcut
-
+<img src="./Images/OpenWorlds.jpg" width="400" height="293">
 
 
