@@ -8,7 +8,8 @@ This GitHub repository contains MATLAB and Simulink utilities and templates to g
 
 For more information please visit the RoboCup Call For Participation details here:
 https://2021.robocup.org/participants/call-for-participation
-![Environment Icon](./Images/RoboCupChallengeIcon.jpg | width=700)
+<img src="./Images/RoboCupChallengeIcon.jpg" width="700" height="408">
+
 
 # Instructions for Installing and Opening Virtual Environments
 1. Download archive containing the virtual machine from this link
