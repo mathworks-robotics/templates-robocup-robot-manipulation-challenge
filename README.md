@@ -8,16 +8,25 @@ This GitHub repository contains MATLAB and Simulink utilities and templates to g
 
 For more information please visit the RoboCup Call For Participation details here:
 
-https://2021.robocup.org/participants/call-for-participation
+https://2021.robocup.org/robot-manipulation
+
+Request [Complimentary MATLAB license for RoboCup Participants here](https://www.mathworks.com/academia/student-competitions/robocup.html)
 <img src="./Images/RoboCupChallengeIcon.jpg" width="700" height="408">
 
 
 # Instructions for Installing and Opening Virtual Environments
-1. Download archive containing the virtual machine from this link
-2. Follow [instructions here](https://www.mathworks.com/support/product/robotics/ros2-vm-installation-instructions-v4.html), using the archive from the step above
-3. Launch virtual machine
-4. Click on the "RoboCup Challenge" folder in the desktop
-5. Click on the desired test environment shortcut
+1. Follow [instructions here](https://www.mathworks.com/support/product/robotics/ros2-vm-installation-instructions-v4.html), using the archive from the step above
+2. Launch virtual machine
+3. Click on the "RoboCup Challenge" folder in the desktop
+4. Click on the desired test environment shortcut
 <img src="./Images/OpenWorlds.jpg" width="400" height="293">
 
 
+# Product Requirements
+MATLAB  
+Simulink  
+Stateflow  
+Robotics System Toolbox  
+ROS Toolbox  
+Computer Vision Toolbox  
+Image Processing Toolbox  
