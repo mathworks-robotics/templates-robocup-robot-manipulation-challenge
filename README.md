@@ -20,6 +20,8 @@ Request [Complimentary MATLAB license for RoboCup Participants here](https://www
 2. Launch virtual machine
 3. Click on the "RoboCup Challenge" folder in the desktop
 4. Click on the desired test environment shortcut
+  
+  NOTE for MAC and Linux users: You might have to change the network bridging options in the Virtual Machine. Refer to this post: https://www.mathworks.com/matlabcentral/answers/392422-cannot-connect-to-ros-master-running-on-virtual-machine
 <img src="./Images/OpenWorlds.jpg" width="400" height="293">
 
 
