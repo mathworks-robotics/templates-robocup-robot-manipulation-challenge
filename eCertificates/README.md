@@ -16,5 +16,5 @@ NOTE: Only e-certificates hosted in this repository are official and validated b
 
 
   
-<img src="./Images/RoboCupChallengeIcon.jpg" width="700" height="408">
+<img src="https://github.com/mathworks-robotics/templates-robocup-robot-manipulation-challenge/blob/main/Images/RoboCup_ARM_Certificate.PNG" width="700" height="508">
 
