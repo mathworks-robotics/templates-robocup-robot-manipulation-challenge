@@ -1,4 +1,4 @@
-# Templates for RoboCup Virtual Robot Manipulation Challenge
+# Resources for RoboCup Virtual Robot Manipulation Challenge
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
@@ -6,12 +6,15 @@
 
 This GitHub repository contains MATLAB and Simulink utilities and templates to get started developing algorithms for the RoboCup Virtual Robot Manipulation Challenge. The templates include how to control the simulated robot in Gazebo using ROS and how to obtain data from the available robot sensors to be used in perception algorithms.
 
-The 2022 RoboCup Virtual Manipulation Challenge will be open for registration after January 10th 2022. For more questions contact roboticsarena@mathworks.com
+This GitHub repository also contains e-certificates for finalists of the challenge that have demonstrated outstanding robotics development skills by completing and submitting succesful entries.
+
+The 2023 RoboCup Virtual Manipulation Challenge will be open for registration after December 2023. For more information [visit the challenge website](https://arm.robocup.org/) and [sign up to get updates](https://docs.google.com/forms/d/e/1FAIpQLScA6JcHRV1qmh_-VWikgCfj62jg-GcQYgQsk6iYd8wBoeDpEg/viewform).
 
 
   
 
 Request [Complimentary MATLAB license for RoboCup Participants here](https://www.mathworks.com/academia/student-competitions/robocup.html)
+
 <img src="./Images/RoboCupChallengeIcon.jpg" width="700" height="408">
 
 
