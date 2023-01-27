@@ -2,7 +2,7 @@
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
 
-By becoming finalists to the RoboCup Autonomous Robot Manipulation Challenge, participants demonstrate mastery of the following skills:
+By becoming finalists and semi-finalists to the RoboCup Autonomous Robot Manipulation Challenge, participants demonstrate mastery of the following skills:
 
 * Robot manipulator programming
 * Interfacing with ROS-based robot controllers
