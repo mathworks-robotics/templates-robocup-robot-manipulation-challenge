@@ -1,4 +1,4 @@
-# Official E-Certificates for Autonomous Robot Manipulation Challenge Finalists
+# Official E-Certificates for RoboCup Autonomous Robot Manipulation (ARM) Challenge Finalists
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
 
