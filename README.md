@@ -19,10 +19,10 @@ Request [Complimentary MATLAB license for RoboCup Participants here](https://www
 
 
 # Instructions for Installing and Opening Virtual Environments
-1. Follow [instructions here](https://www.mathworks.com/support/product/robotics/ros2-vm-installation-instructions-v4.html), using the archive from the step above
-2. Launch virtual machine
-3. Click on the "RoboCup Challenge" folder in the desktop
-4. Click on the desired test environment shortcut
+1. Follow [instructions here (Appendix A) to install VM image or setup Docker container](https://drive.google.com/file/d/1w9tBy3DKmZBKEfOqOFUXcT8hcQig6sNS/view), using the archive from the step above
+2. Open a command line terminal and navigate to ~src/arm_gazebo/docker
+3. execute the the run script (./run.bash)
+
   
   NOTE for MAC and Linux users: You might have to change the network bridging options in the Virtual Machine. Refer to this post: https://www.mathworks.com/matlabcentral/answers/392422-cannot-connect-to-ros-master-running-on-virtual-machine
 <img src="./Images/OpenWorlds.jpg" width="400" height="293">
