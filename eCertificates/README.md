@@ -12,7 +12,7 @@ By becoming finalists and semi-finalists to the RoboCup Autonomous Robot Manipul
 * Developing dynamic grasping algorithms for robot manipulation
 
 
-NOTE: Only e-certificates hosted in this repository are official and validated by the acting RoboCup Federation President and MathWorks Academic Program Managers.
+NOTE: Only e-certificates hosted in this repository are official and validated by the acting RoboCup Federation Trustees and MathWorks Academic Program Managers.
 
 
   
