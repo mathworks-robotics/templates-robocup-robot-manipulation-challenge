@@ -25,6 +25,17 @@ Request [Complimentary MATLAB license for RoboCup Participants here](https://www
 
   
   NOTE for MAC and Linux users: You might have to change the network bridging options in the Virtual Machine. Refer to this post: https://www.mathworks.com/matlabcentral/answers/392422-cannot-connect-to-ros-master-running-on-virtual-machine
+  
+# MATLAB Support for Cobots and Examples
+
+[Intelligent Bin Picking Reference Example in MATLAB](https://www.mathworks.com/help/supportpkg/urseries/ug/pick-standard-pvc-fittings-ur5e-example.html)
+
+[Intelligent Bin Picking Reference Example in Simulink](https://www.mathworks.com/matlabcentral/fileexchange/128699-intelligent-bin-picking-with-simulink-for-ur5e-cobot)
+
+[Universal Robots Support from MATLAB](https://www.mathworks.com/campaigns/products/universal-robots-cobots.html?s_tid=srchtitle_site_search_1_Universal%20Robots%20cobot)
+
+[Examples of Universal Robots UR Series Programming](https://www.mathworks.com/help/supportpkg/urseries/examples.html?category=index&exampleproduct=all&newonly=)
+
 
 
 # Product Requirements
