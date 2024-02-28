@@ -28,6 +28,9 @@ Request [Complimentary MATLAB license for RoboCup Participants here](https://www
   
 # MATLAB Support for Cobots and Examples
 
+<img src="./Images/PickPVCFittingsDifferentShapesSemiStructuredUR5eExample_01.gif" width="500" height="308">
+
+
 [Intelligent Bin Picking Reference Example in MATLAB](https://www.mathworks.com/help/supportpkg/urseries/ug/pick-standard-pvc-fittings-ur5e-example.html)
 
 [Intelligent Bin Picking Reference Example in Simulink](https://www.mathworks.com/matlabcentral/fileexchange/128699-intelligent-bin-picking-with-simulink-for-ur5e-cobot)
