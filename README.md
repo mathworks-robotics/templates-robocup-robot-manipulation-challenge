@@ -37,15 +37,18 @@ Request [Complimentary MATLAB license for RoboCup Participants here](https://www
 
 [Universal Robots Support from MATLAB](https://www.mathworks.com/campaigns/products/universal-robots-cobots.html?s_tid=srchtitle_site_search_1_Universal%20Robots%20cobot)
 
-[Examples of Universal Robots UR Series Programming](https://www.mathworks.com/help/supportpkg/urseries/examples.html?category=index&exampleproduct=all&newonly=)
+[Examples of Universal Robots UR Series Programming](https://www.mathworks.com/help/robotics/examples.html?category=urseries-spkg&exampleproduct=all)
 
 
 
 # Product Requirements
-MATLAB  
-Simulink  
-Stateflow  
-Robotics System Toolbox  
-ROS Toolbox  
-Computer Vision Toolbox  
+  
+[Robotics System Toolbox Support Package for Universal Robots UR Series Manipulators](https://www.mathworks.com/matlabcentral/fileexchange/117530-robotics-system-toolbox-support-package-for-universal-robots-ur-series-manipulators)
+
+MATLAB\
+Simulink\
+Robotics System Toolbox\
+Stateflow\
+ROS Toolbox\
+Computer Vision Toolbox\
 Image Processing Toolbox  
