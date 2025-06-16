@@ -1,4 +1,4 @@
-# Resources for RoboCup Virtual Robot Manipulation Challenge
+# RoboCup Autonomous Robot Manipulation (ARM) Challenge Resources
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
