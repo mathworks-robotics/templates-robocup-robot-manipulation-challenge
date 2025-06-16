@@ -19,7 +19,7 @@ Request [Complimentary MATLAB license for RoboCup Participants here](https://www
 
 
 # Instructions for Installing and Opening Virtual Environments
-1. Follow [instructions here (Appendix A) to install VM image or setup Docker container](https://drive.google.com/file/d/1w9tBy3DKmZBKEfOqOFUXcT8hcQig6sNS/view), using the archive from the step above
+1. Follow [instructions here (Appendix A) to install VM image or setup Docker container](https://drive.google.com/file/d/1rVBmJmEFjujB9l4rMBZvZn50rprETTFg/view?usp=drive_link), using the archive from the step above
 2. Open a command line terminal and navigate to `~/src/arm_gazebo/docker`
 3. execute the the run script (`./run.bash`)
 
